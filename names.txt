@@ -1,0 +1,7 @@
+Amulya 
+Sarthak
+Akhil
+:q
+":q"
+"wq!"
+"Esc" + ":q!" 
